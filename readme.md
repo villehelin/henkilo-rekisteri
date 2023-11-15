@@ -1,4 +1,4 @@
-# henkilö-rekisteri
+# henkilo-rekisteri
 
 How to run the application.  
 `g++ -o program Henkilo.cpp Koulu.cpp Koulutusohjelma.cpp main.cpp Opettaja.cpp Opiskelija.cpp Sovellus.cpp Tyontekija.cpp`  
